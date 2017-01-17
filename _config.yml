@@ -10,7 +10,7 @@ title: sims' Blog
 email: m0hahawk@gmail.com
 description: My Personal Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://sims1253.github.io" # the base hostname & protocol for your site
 twitter_username: m0havvk
 github_username:  sims1253
 paginate: 5
