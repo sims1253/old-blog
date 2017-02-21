@@ -1,40 +1,6 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading small-site-title">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list footer-content">
-          <li>Powered By <a href="http://github.com/hemangsk/Gravity">Gravity</a></li>
-          <li>Made with <i class="fa fa-heart"></i> on <a href="http://jekyllrb.com"><span style="color:black">{ { Jekyll } }</a></span></li>
-
-
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2 footer-content">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3 site-description">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
-  </div>
-
+<footer class="footer">
+  <a href="https://twitter.com/m0havvk"><i class="fa fa-twitter" aria-hidden="true" target="_blank"></i></a>
+  <!-- <a href="https://linkedin.com/in/lenpaul"><i class="fa fa-linkedin" aria-hidden="true" target="_blank"></i></a> -->
+  <a href="mailto:m0hahawk@gmail.com"><i class="fa fa-envelope" aria-hidden="true" target="_blank"></i></a>
+  <div class="post-date"><a href="{{ site.github.url }}/about.html">{{ site.title }} | {{ site.tagline }} by {{ site.author.name }}</a></div>
 </footer>
