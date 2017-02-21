@@ -1,20 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site Settings
+title:               sims' Blog
+tagline:             all things have a right to grow
+description:
+baseurl:            #"/Lagrange"
+url:                "http://blog.solyoution.io"
+github:
+  url:               #"https://lenpaul.github.io/Lagrange"
+author:
+  name:              "Maximilian Scholz"
+  email:             "m0hahawk@gmail.com"
+  twitter:           "m0havvk"
+  #instagram:         #"paululele"
+  github:            "sims1253"
+  #facebook:          #"Le.Paul.94"
+  #linkedin:          #"lenpaul"
+paginate:            5
 
-# Site settings
-title: sims' Blog
-email: m0hahawk@gmail.com
-description: My Personal Blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sims1253.github.io" # the base hostname & protocol for your site
-twitter_username: m0havvk
-github_username:  sims1253
-paginate: 5
 
-gems: [jekyll-paginate, kramdown]
 # Build settings
-markdown: kramdown
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]

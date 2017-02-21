@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "The Birth of a coala"
-date:   2017-01-30 20:00:00 +0100
-categories: ["coala"]
-author: "Maximilian Scholz"
+title: "The Birth of a coala"
+categories: coala
+tags: [community team]
+image:
+  feature:
+  teaser:
+  credit:
+  creditlink:
 ---
 
-The Birth of a coala!
-=====================
 
 This is my first entry on the coala blog. Welcome everyone.
 My name is Maximilian and I am the community team leader for coala since
