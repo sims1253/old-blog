@@ -28,7 +28,7 @@ upgrading your ramen game.
 Surely we had more important, ground breaking, work to do.
 I am pretty sure those weren't the exact words but the idea was the same.
 Even more amazing, the newcomer was able to participate (who has never eaten a
-bowl of instant ramen) and contribute.
+bowl of instant ramen?) and contribute.
 The newcomer loved the casual atmosphere and being included, who would have
 guessed.
 
@@ -77,8 +77,10 @@ be written as the whole thing is just for fun and giggles.
 Just to get rolling, **the first round will start now and end in two weeks
 (April 29.)**.
 If you want to participate, just cook something, make nice pictures of the
-result (maybe also during the cooking part), write a blog post and get it onto
-the coala blog.
+result (maybe also during the cooking part), ~~write a blog post and get it onto
+the coala blog.~~  
+**Update:** Create a PR to [coala/recipes](https://github.com/coala/recipes)
+with your entry as a .md file and blog post format.  
 The first round will mostly be an idea finding time to figure out how we can
 organize this and how it is supposed to work. :)
 
