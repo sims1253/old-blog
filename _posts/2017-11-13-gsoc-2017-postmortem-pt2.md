@@ -151,7 +151,7 @@ Not a great takeaway.
 Implementing Feedback
 ---------------------
 I rewrote a lot of our application texts to focus more on the things
-Stephany pointed out as important factors after we returned but the
+Stephanie pointed out as important factors after we returned but the
 main part of work I did was essentially rewriting all twenty something
 project proposals we had.
 Although I wrote some of them myself, most of them were actually written
